@@ -34,7 +34,10 @@ Reinforcement Learning with Offline Datasets
 ](https://offline-rl-neurips.github.io/pdf/13.pdf)
     - Seunghyun Lee, Younggyo Seo, Kimin Lee, Pieter Abbeel, Jinwoo Shin. Offline RL workshop. 12/2020.
 
-- [Jump-Start Reinforcement Learning][https://arxiv.org/abs/2204.02372]
+- [Offline-to-Online Reinforcement Learning via Balanced Replay and Pessimistic Q-Ensemble](https://arxiv.org/abs/2107.00591)
+    - Seunghyun Lee, Younggyo Seo, Kimin Lee, Pieter Abbeel, Jinwoo Shin. CoRL 2022. 07/2021.
+
+- [Jump-Start Reinforcement Learning](https://arxiv.org/abs/2204.02372)
     - Ikechukwu Uchendu, Ted Xiao, Yao Lu, Banghua Zhu, Mengyuan Yan, Joséphine Simon, Matthew Bennice, Chuyuan Fu, Cong Ma, Jiantao Jiao, Sergey Levine, Karol Hausman. ICML 2023. 04/22.
 
 - [Reincarnating Reinforcement Learning: Reusing Prior Computation to Accelerate Progress](https://arxiv.org/abs/2206.01626) [page](https://agarwl.github.io/reincarnating_rl/)
@@ -42,10 +45,27 @@ Reinforcement Learning with Offline Datasets
 - [Don’t Start From Scratch: Leveraging Prior Data to Automate Robotic Reinforcement Learning](https://arxiv.org/pdf/2207.04703.pdf) [page](https://sites.google.com/view/ariel-berkeley/)
     - Homer Walke, Jonathan Yang, Albert Yu, Aviral Kumar, Jedrzej Orbik, Avi Singh, Sergey Levine. CoRL 2022. 07/2022.
 
+- [Hybrid RL: Using Both Offline and Online Data Can Make RL Efficient](https://arxiv.org/abs/2210.06718)
+    - Yuda Song, Yifei Zhou, Ayush Sekhari, J. Andrew Bagnell, Akshay Krishnamurthy, Wen Sun. ICLR 2023. 10/2022.
+
+- [Pre-Training for Robots: Offline RL Enables Learning New Tasks from a Handful of Trials](https://arxiv.org/abs/2210.05178)
+    - Aviral Kumar, Anikait Singh, Frederik Ebert, Mitsuhiko Nakamoto, Yanlai Yang, Chelsea Finn, Sergey Levine. RSS. 10/2022.
+
+- [MOTO: Offline to Online Fine-tuning for Model-Based Reinforcement Learning](https://openreview.net/forum?id=cH8XVu9hUV&referrer=%5Bthe%20profile%20of%20Rafael%20Rafailov%5D(%2Fprofile%3Fid%3D~Rafael_Rafailov1))
+    - Rafael Rafailov, Kyle Beltran Hatch, Victor Kolev, John D Martin, Mariano Phielipp, Chelsea Finn. ICLR 2022 Workshop: Reincarnating Reinforcement Learning. 
+
+- [Launchpad: Learning to Schedule Using Offline and Online RL Methods](https://arxiv.org/abs/2212.00639)
+    - Vanamala Venkataswamy, Jake Grigsby, Andrew Grimshaw, Yanjun Qi. arXiv. 12/2022.
+
+
+- [Guiding Online Reinforcement Learning with Action-Free Offline Pretraining](https://arxiv.org/abs/2301.12876)
+    - Deyao Zhu, Yuhui Wang, Jürgen Schmidhuber, Mohamed Elhoseiny. arXiv. 01/2023.
     
 - [Efficient Online Reinforcement Learning with Offline Data](https://arxiv.org/abs/2302.02948)
     - Philip J. Ball, Laura Smith, Ilya Kostrikov, Sergey Levine. ICML 2023. 02/2023.
 
+- [Policy Expansion for Bridging Offline-to-Online Reinforcement Learning](https://arxiv.org/abs/2302.00935)
+    - Haichao Zhang, We Xu, Haonan Yu. ICLR 2023. 02/2023.
 
 - [Cal-QL: Calibrated Offline RL Pre-Training for Efficient Online Fine-Tuning](https://arxiv.org/abs/2303.05479)
     - Mitsuhiko Nakamoto, Yuexiang Zhai, Anikait Singh, Max Sobol Mark, Yi Ma, Chelsea Finn, Aviral Kumar, Sergey Levine. NeurIPS 2023. 03/2023.
@@ -57,15 +77,32 @@ Reinforcement Learning with Offline Datasets
 - [PROTO: Iterative Policy Regularized Offline-to-Online Reinforcement Learning](https://arxiv.org/abs/2305.15669) 
     - Jianxiong Li, Xiao Hu, Haoran Xu, Jingjing Liu, Xianyuan Zhan, Ya-Qin Zhang. arXiv. 05/2023.
 
+- [Seizing Serendipity: Exploiting the Value of Past Success in Off-Policy Actor-Critic](https://arxiv.org/abs/2306.02865)
+    - Tianying Ji, Yu Luo, Fuchun Sun, Xianyuan Zhan, Jianwei Zhang, Huazhe Xu. arXiv. 06/2023.
+
 - [A Simple Unified Uncertainty-Guided Framework for Offline-to-Online Reinforcement Learning](https://arxiv.org/abs/2306.07541)
     - Siyuan Guo, Yanchao Sun, Jifeng Hu, Sili Huang, Hechang Chen, Haiyin Piao, Lichao Sun, Yi Chang. arXiv. 06/2023.
 
 - [Improving Offline-to-Online Reinforcement Learning with Q-Ensembles](https://arxiv.org/abs/2306.06871)
     - Kai Zhao, Yi Ma, Jianye Hao, Jinyi Liu, Yan Zheng, Zhaopeng Meng. arXiv. 06/2023.
 
+- [Sample Efficient Offline-to-Online Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10210487)
+    - Siyuan Guo, Lixin Zou, et al.  IEEE Transactions on Knowledge and Data Engineering ( Early Access ). 08/2023.
+
+- [Guided Online Distillation: Promoting Safe Reinforcement Learning by Offline Demonstration](https://arxiv.org/abs/2309.09408)
+    - Jinning Li, Xinyi Liu, Banghua Zhu, Jiantao Jiao, Masayoshi Tomizuka, Chen Tang, Wei Zhan. arXiv. 09/2023.
 
 - [Towards Robust Offline-to-Online Reinforcement Learning via Uncertainty and Smoothness](https://arxiv.org/abs/2309.16973)
     - Xiaoyu Wen, Xudong Yu, Rui Yang, Chenjia Bai, Zhen Wang.  arXiv. 09/2023.
 - [Sample Efficient Reward Augmentation in offline-to-online Reinforcement Learning](https://arxiv.org/abs/2310.19805)
     - Ziqi Zhang, Xiao Xiong, Zifeng Zhuang, Jinxin Liu, Donglin Wang. arXiv. 10/2023.
-- 
+- [Offline Retraining for Online RL: Decoupled Policy Learning to Mitigate Exploration Bias](https://arxiv.org/abs/2310.08558)
+    - Max Sobol Mark, Archit Sharma, Fahim Tajwar, Rafael Rafailov, Sergey Levine, Chelsea Finn. arXiv, reviewed at ICLR 2024. 10/2023.
+
+- [Planning to Go Out-of-Distribution in Offline-to-Online Reinforcement Learning](https://arxiv.org/abs/2310.05723)
+    - Trevor McInroe, Stefano V. Albrecht, Amos Storkey. arXiv, reviewed at ICLR 2024. 10/2023.
+
+- [Offline RL for Online RL: Decoupled Policy Learning for Mitigating Exploration Bias](https://openreview.net/forum?id=lWe3GBRem8)
+    - . reviewed at ICLR 2024. 
+
+
