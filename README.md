@@ -21,6 +21,7 @@ For any questions, feel free to contact: l.le@deakin.edu.au
 - [Papers](https://github.com/linhlpv/awesome-offline-online-RL-papers#papers):
     - [Surveys](https://github.com/linhlpv/awesome-offline-online-RL-papers#surveys)
     - [Offline to Online](https://github.com/linhlpv/awesome-offline-online-RL-papers#offline-to-online)
+        - [Underreviewed ICLR 24](https://github.com/linhlpv/awesome-offline-online-RL-papers#underreviewd-iclr-24)
 
 ## Papers
 ### Surveys
@@ -96,6 +97,19 @@ Reinforcement Learning with Offline Datasets
     - Xiaoyu Wen, Xudong Yu, Rui Yang, Chenjia Bai, Zhen Wang.  arXiv. 09/2023.
 - [Sample Efficient Reward Augmentation in offline-to-online Reinforcement Learning](https://arxiv.org/abs/2310.19805)
     - Ziqi Zhang, Xiao Xiong, Zifeng Zhuang, Jinxin Liu, Donglin Wang. arXiv. 10/2023.
+
+
+#### Underreviewed ICLR 24
+- [Adaptive Offline Data Replay in Offline-to-Online Reinforcement Learning](https://openreview.net/forum?id=wWI1RYngAA)
+    - . reviewed at ICLR 2024. 
+
+- [Bayesian Offline-to-Online Reinforcement Learning : A Realist Approach](https://openreview.net/forum?id=opZTBFnX2G)
+    - . reviewed at ICLR 2024. 
+
+- [SERA: Sample Efficient Reward Augmentation in offline-to-online Reinforcement Learning](https://openreview.net/forum?id=91DFSjAva8)
+    - Ziqi Zhang, Xiao Xiong, Zifeng Zhuang, Jinxin Liu, Donglin Wang. reviewed at ICLR 2024. 
+
+
 - [Offline Retraining for Online RL: Decoupled Policy Learning to Mitigate Exploration Bias](https://arxiv.org/abs/2310.08558)
     - Max Sobol Mark, Archit Sharma, Fahim Tajwar, Rafael Rafailov, Sergey Levine, Chelsea Finn. arXiv, reviewed at ICLR 2024. 10/2023.
 
@@ -104,5 +118,24 @@ Reinforcement Learning with Offline Datasets
 
 - [Offline RL for Online RL: Decoupled Policy Learning for Mitigating Exploration Bias](https://openreview.net/forum?id=lWe3GBRem8)
     - . reviewed at ICLR 2024. 
+
+- [A Simple Unified Uncertainty-Guided Framework for Offline-to-Online Reinforcement Learning](https://openreview.net/forum?id=ZHr0JajZfH)
+    - Siyuan Guo, Yanchao Sun, Jifeng Hu, Sili Huang, Hechang Chen, Haiyin Piao, Lichao Sun, Yi Chang. reviewed at ICLR 2024.
+
+- [Uni-O4: Unifying Online and Offline Deep Reinforcement Learning with Multi-Step On-Policy Optimization](https://openreview.net/forum?id=tbFBh3LMKi)
+    - Kun Lei, Zhengmao He, Chenhao Lu, Kaizhe Hu, Yang Gao, Huazhe Xu. reviewed at ICLR 2024.
+
+- [Automatic Fine-Tuned Offline-to-Online Reinforcement Learning via Increased Simple Moving Average Q-value](https://openreview.net/forum?id=228XQpErvW)
+    - . reviewed at ICLR 2024.
+
+- [Guided Decoupled Exploration for Offline Reinforcement Learning Fine-tuning](https://openreview.net/forum?id=gCZyD7WD0w)
+    - . reviewed at ICLR 2024.
+
+- [Offline Data Enhanced On-Policy Policy Gradient with Provable Guarantees](https://openreview.net/forum?id=RMgqvQGTwH)
+    - Yifei Zhou, Ayush Sekhari, Yuda Song, Wen Sun. reviewed at ICLR 2024.
+
+- [Collaborative World Models: An Online-Offline Transfer RL Approach](https://openreview.net/forum?id=AhcxMGfqQn)
+    - Qi Wang, Junming Yang, Yunbo Wang, Xin Jin, Wenjun Zeng, Xiaokang Yang. reviewed at ICLR 2024.
+
 
 
