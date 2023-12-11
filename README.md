@@ -1,7 +1,7 @@
-# Off2OnRL-awesome-papers
+# Off2OnRL-awesome-papers [Offline Online Reinforcement Learning]
 
 
-This is a collection of reasearch and review papers for **Offline to Online Reinforcement Learning (RL)**. Feel free to star and fork. This site is mainly inspired by the [Awesome Offline RL list](https://github.com/hanjuku-kaso/awesome-offline-rl), please see them if you interested in newest research papers related to Offline RL too.
+This is a collection of reasearch and review papers for **Offline to Online Reinforcement Learning (RL)** (or **Offline Online RL**). Feel free to star and fork. This site is mainly inspired by the [Awesome Offline RL list](https://github.com/hanjuku-kaso/awesome-offline-rl), please see them if you interested in newest research papers related to Offline RL too.
 
 
 Maintainers:
