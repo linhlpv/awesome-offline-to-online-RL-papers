@@ -1,15 +1,12 @@
 # Off2OnRL-awesome-papers
 
-<<<<<<< HEAD
+
 This is a collection of reasearch and review papers for **Offline to Online Reinforcement Learning (RL)**. Feel free to star and fork. This site is mainly inspired by the [Awesome Offline RL list](https://github.com/hanjuku-kaso/awesome-offline-rl), please see them if you interested in newest research papers related to Offline RL too.
-=======
-This is a collection of reasearch and review papers for **Offline to Online Reinforcement Learning (RL)**. Feel free to star and fork.
->>>>>>> 3ef140688cf0b551e550d3cafc8658db8359b890
+
 
 Maintainers:
 - [Linh LPV](https://linhlpv.github.io/) (A2I2, Deakin University)
 
-<<<<<<< HEAD
 
 Please feel free to [pull request](https://github.com/linhlpv/Off2OnRL-awesome-papers/pulls).
 ```
@@ -42,5 +39,3 @@ Automate Robotic Reinforcement Learning
     - Mitsuhiko Nakamoto, Yuexiang Zhai, Anikait Singh, Max Sobol Mark, Yi Ma, Chelsea Finn, Aviral Kumar, Sergey Levine. NeurIPS 2023. 03/2023.
 - [Adaptive Policy Learning for Offline-to-Online Reinforcement Learning](https://arxiv.org/abs/2303.07693)
     - Han Zheng, Xufang Luo, Pengfei Wei, Xuan Song, Dongsheng Li, Jing Jiang. AAAI 2023. 03/2023.
-=======
->>>>>>> 3ef140688cf0b551e550d3cafc8658db8359b890
