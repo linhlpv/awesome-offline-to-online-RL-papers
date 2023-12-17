@@ -110,14 +110,14 @@ Reinforcement Learning with Offline Datasets
     - Ziqi Zhang, Xiao Xiong, Zifeng Zhuang, Jinxin Liu, Donglin Wang. reviewed at ICLR 2024. 
 
 
-- [Offline Retraining for Online RL: Decoupled Policy Learning to Mitigate Exploration Bias](https://arxiv.org/abs/2310.08558)
-    - Max Sobol Mark, Archit Sharma, Fahim Tajwar, Rafael Rafailov, Sergey Levine, Chelsea Finn. arXiv, reviewed at ICLR 2024. 10/2023.
+<!-- - [Offline Retraining for Online RL: Decoupled Policy Learning to Mitigate Exploration Bias](https://arxiv.org/abs/2310.08558) -->
+<!-- - Max Sobol Mark, Archit Sharma, Fahim Tajwar, Rafael Rafailov, Sergey Levine, Chelsea Finn. arXiv, reviewed at ICLR 2024. 10/2023. -->
 
 - [Planning to Go Out-of-Distribution in Offline-to-Online Reinforcement Learning](https://arxiv.org/abs/2310.05723)
     - Trevor McInroe, Stefano V. Albrecht, Amos Storkey. arXiv, reviewed at ICLR 2024. 10/2023.
 
 - [Offline RL for Online RL: Decoupled Policy Learning for Mitigating Exploration Bias](https://openreview.net/forum?id=lWe3GBRem8)
-    - . reviewed at ICLR 2024. 
+    - Max Sobol Mark, Archit Sharma, Fahim Tajwar, Rafael Rafailov, Sergey Levine, Chelsea Finn. arXiv, reviewed at ICLR 2024. 10/2023.
 
 - [A Simple Unified Uncertainty-Guided Framework for Offline-to-Online Reinforcement Learning](https://openreview.net/forum?id=ZHr0JajZfH)
     - Siyuan Guo, Yanchao Sun, Jifeng Hu, Sili Huang, Hechang Chen, Haiyin Piao, Lichao Sun, Yi Chang. reviewed at ICLR 2024.
