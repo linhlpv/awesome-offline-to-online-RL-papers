@@ -38,6 +38,9 @@ Reinforcement Learning with Offline Datasets
 - [Offline-to-Online Reinforcement Learning via Balanced Replay and Pessimistic Q-Ensemble](https://arxiv.org/abs/2107.00591)
     - Seunghyun Lee, Younggyo Seo, Kimin Lee, Pieter Abbeel, Jinwoo Shin. CoRL 2022. 07/2021.
 
+- [MOORe: Model-based Offline-to-Online Reinforcement Learning](https://arxiv.org/abs/2201.10070v1)
+    - Yihuan Mao, Chao Wang, Bin Wang, Chongjie Zhang. arXiv 2022. 01/2022.
+
 - [Jump-Start Reinforcement Learning](https://arxiv.org/abs/2204.02372)
     - Ikechukwu Uchendu, Ted Xiao, Yao Lu, Banghua Zhu, Mengyuan Yan, Joséphine Simon, Matthew Bennice, Chuyuan Fu, Cong Ma, Jiantao Jiao, Sergey Levine, Karol Hausman. ICML 2023. 04/22.
 
