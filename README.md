@@ -87,8 +87,7 @@ Reinforcement Learning with Offline Datasets
 - [A Simple Unified Uncertainty-Guided Framework for Offline-to-Online Reinforcement Learning](https://arxiv.org/abs/2306.07541)
     - Siyuan Guo, Yanchao Sun, Jifeng Hu, Sili Huang, Hechang Chen, Haiyin Piao, Lichao Sun, Yi Chang. arXiv. 06/2023.
 
-- [Improving Offline-to-Online Reinforcement Learning with Q-Ensembles](https://arxiv.org/abs/2306.06871)
-    - Kai Zhao, Yi Ma, Jianye Hao, Jinyi Liu, Yan Zheng, Zhaopeng Meng. arXiv. 06/2023.
+
 
 - [Sample Efficient Offline-to-Online Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10210487)
     - Siyuan Guo, Lixin Zou, et al.  IEEE Transactions on Knowledge and Data Engineering ( Early Access ). 08/2023.
@@ -139,6 +138,42 @@ Reinforcement Learning with Offline Datasets
 
 - [Collaborative World Models: An Online-Offline Transfer RL Approach](https://openreview.net/forum?id=AhcxMGfqQn)
     - Qi Wang, Junming Yang, Yunbo Wang, Xin Jin, Wenjun Zeng, Xiaokang Yang. reviewed at ICLR 2024.
+
+
+#### ICLR 2024
+
+
+#### AAAI 2024
+- [SUF: Stabilized Unconstrained Fine-Tuning for Offline-to-Online Reinforcement Learning](https://ojs.aaai.org/index.php/AAAI/article/view/29083)
+    - Jiaheng Feng, Mingxiao Feng, Haolin Song, Wengang Zhou, Houqiang Li. AAAI 2024. 
+
+- [A Perspective of Q-value Estimation on Offline-to-Online Reinforcement Learning](https://arxiv.org/abs/2312.07685)
+    - Yinmin Zhang, Jie Liu, Chuming Li, Yazhe Niu, Yaodong Yang, Yu Liu, Wanli Ouyang. AAAI 2024. 
+
+
+
+#### IJCAI 2024
+- [Efficient and Stable Offline-to-online Reinforcement Learning via Continual Policy Revitalization](https://www.ijcai.org/proceedings/2024/477)
+    - Rui Kong, Chenyang Wu, Chen-Xiao Gao, Zongzhang Zhang, Ming Li. IJCAI 2024. 
+
+- [ENOTO: Improving Offline-to-Online Reinforcement Learning with Q-Ensembles](https://arxiv.org/abs/2306.06871)
+    - Kai Zhao, Yi Ma, Jianye Hao, Jinyi Liu, Yan Zheng, Zhaopeng Meng. IJCAI 2024. arXiv. 06/2023.
+
+
+#### ICML 2024
+- [Bayesian Design Principles for Offline-to-Online Reinforcement Learning](https://arxiv.org/abs/2405.20984)
+    - Hao Hu, Yiqin Yang, Jianing Ye, Chengjie Wu, Ziqing Mai, Yujing Hu, Tangjie Lv, Changjie Fan, Qianchuan Zhao, Chongjie Zhang. ICML 2024. 
+
+
+<!-- #### UAI 2024
+- [Adaptive Offline Data Replay in Offline-to-Online Reinforcement Learning](https://openreview.net/forum?id=wWI1RYngAA)
+    - . reviewed at ICLR 2024. 
+
+
+
+#### RLC 2024
+- [Adaptive Offline Data Replay in Offline-to-Online Reinforcement Learning](https://openreview.net/forum?id=wWI1RYngAA)
+    - . reviewed at ICLR 2024.  -->
 
 
 
