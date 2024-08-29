@@ -164,6 +164,15 @@ Reinforcement Learning with Offline Datasets
 - [Bayesian Design Principles for Offline-to-Online Reinforcement Learning](https://arxiv.org/abs/2405.20984)
     - Hao Hu, Yiqin Yang, Jianing Ye, Chengjie Wu, Ziqing Mai, Yujing Hu, Tangjie Lv, Changjie Fan, Qianchuan Zhao, Chongjie Zhang. ICML 2024. 
 
+- [Energy-Guided Diffusion Sampling for Offline-to-Online Reinforcement Learning](https://arxiv.org/abs/2407.12448)
+    - Xu-Hui Liu, Tian-Shuo Liu, Shengyi Jiang, Ruifeng Chen, Zhilong Zhang, Xinwei Chen, Yang Yu. ICML 2024. 
+
+- [OLLIE: Imitation Learning from Offline Pretraining to Online Finetuning](https://arxiv.org/abs/2405.17477)
+    - Sheng Yue, Xingyuan Hua, Ju Ren, Sen Lin, Junshan Zhang, Yaoxue Zhang. ICML 2024. 
+
+- [Offline-Boosted Actor-Critic: Adaptively Blending Optimal Historical Behaviors in Deep Off-Policy RL](https://arxiv.org/abs/2405.18520)
+    - Yu Luo, Tianying Ji, Fuchun Sun, Jianwei Zhang, Huazhe Xu, Xianyuan Zhan. ICML 2024. 
+
 
 <!-- #### UAI 2024
 - [Adaptive Offline Data Replay in Offline-to-Online Reinforcement Learning](https://openreview.net/forum?id=wWI1RYngAA)
