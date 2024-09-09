@@ -8,7 +8,7 @@ Maintainers:
 - [Linh LPV](https://linhlpv.github.io/) (A2I2, Deakin University)
 
 
-Please feel free to [pull request](https://github.com/linhlpv/Off2OnRL-awesome-papers/pulls).
+Please feel free to [pull request](https://github.com/linhlpv/Off2OnRL-awesome-papers/pulls) with the intructions provided in [Contributing](ttps://github.com/linhlpv/Off2OnRL-awesome-papers/CONTRIBUTING.md).
 ```
 Format:
 - [title](paper linnk) [links]
