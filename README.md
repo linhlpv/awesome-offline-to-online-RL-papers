@@ -8,7 +8,7 @@ Maintainers:
 - [Linh LPV](https://linhlpv.github.io/) (A2I2, Deakin University)
 
 
-Please feel free to [pull request](https://github.com/linhlpv/Off2OnRL-awesome-papers/pulls) with the intructions provided in [Contributing](ttps://github.com/linhlpv/Off2OnRL-awesome-papers/CONTRIBUTING.md).
+Please feel free to [pull request](https://github.com/linhlpv/Off2OnRL-awesome-papers/pulls) with the intructions provided in [Contributing](https://github.com/linhlpv/awesome-offline-to-online-RL-papers/blob/main/CONTRIBUTING.md).
 ```
 Format:
 - [title](paper linnk) [links]
@@ -16,6 +16,10 @@ Format:
 ```
 
 For any questions, feel free to contact: l.le@deakin.edu.au
+
+Credit: 
+- The Contributing instruction is based on the workflow of [awesome-exploration-rl
+](https://github.com/opendilab/awesome-exploration-rl).
 
 ## Table of Contents
 - [Papers](https://github.com/linhlpv/awesome-offline-online-RL-papers#papers):

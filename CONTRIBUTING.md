@@ -1,4 +1,4 @@
-# Contributing to Awesome Decision Transformer
+# Contributing to Awesome Offline to Online RL
 
 Anyone interested in Offline to Online is welcomed to contribute to this repo:
 
@@ -22,7 +22,7 @@ We follow the "fork-and-pull" Git workflow.
     
 - You can check the changes using the command `git status`.
 
-- Add those changes to the branch using the `git add` command:
+- You can add those changes to the branch using the `git add` command:
     ```
     git add <your_contributor_files>
     ```
