@@ -23,14 +23,14 @@ Credit:
 
 ## Table of Contents
 - [Papers](https://github.com/linhlpv/awesome-offline-online-RL-papers#papers):
-    - [Surveys](https://github.com/linhlpv/awesome-offline-online-RL-papers#surveys)
+    <!-- - [Surveys](https://github.com/linhlpv/awesome-offline-online-RL-papers#surveys) -->
     - [Offline to Online](https://github.com/linhlpv/awesome-offline-online-RL-papers#offline-to-online)
         - [Underreviewed ICLR 24](https://github.com/linhlpv/awesome-offline-online-RL-papers#underreviewd-iclr-24)
 
 ## Papers
-### Surveys
+<!-- ### Surveys
 - [Pretraining in Deep Reinforcement Learning: A Survey](https://arxiv.org/abs/2211.03959)
-    - Zhihui Xie, Zichuan Lin, Junyou Li, Shuai Li, Deheng Ye. arXiv. 11/2022.
+    - Zhihui Xie, Zichuan Lin, Junyou Li, Shuai Li, Deheng Ye. arXiv. 11/2022. -->
 ### Offline to Online
 #### Preprints
 - [MOORe: Model-based Offline-to-Online Reinforcement Learning](https://arxiv.org/abs/2201.10070v1)
@@ -49,6 +49,7 @@ Credit:
     - Xiaoyu Wen, Xudong Yu, Rui Yang, Chenjia Bai, Zhen Wang.  arXiv. 09/2023.
 - [Sample Efficient Reward Augmentation in offline-to-online Reinforcement Learning](https://arxiv.org/abs/2310.19805)
     - Ziqi Zhang, Xiao Xiong, Zifeng Zhuang, Jinxin Liu, Donglin Wang. arXiv. 10/2023.
+
 
 
 
@@ -120,6 +121,35 @@ Reinforcement Learning with Offline Datasets
     - Siyuan Guo, Lixin Zou, et al.  IEEE Transactions on Knowledge and Data Engineering ( Early Access ). 08/2023.
 
 
+#### NeurIPS 2025
+
+#### ICML 2025
+
+#### IJCAI 2025
+
+#### AAAI 2025
+
+#### ICLR 2025
+
+#### NeurIPS 2024
+- [Optimistic Critic Reconstruction and Constrained Fine-Tuning for General Offline-to-Online RL](https://openreview.net/forum?id=XVfevb9XFx&noteId=rkLIxK5jZ2)
+    - Qin-Wen Luo, Ming-Kun Xie, Ye-Wen Wang, Sheng-Jun Huang. NeurIPS 2024.
+- [Reinforcement Learning Gradients as Vitamin for Online Finetuning Decision Transformers](https://arxiv.org/abs/2410.24108)
+    - Kai Yan, Alexander G. Schwing, Yu-Xiong Wang. NeurIPS Spotlight 2024.
+
+#### ICML 2024
+- [Energy-Guided Diffusion Sampling for Offline-to-Online Reinforcement Learning](https://arxiv.org/pdf/2407.12448v2)
+    - Xu-Hui Liu, Tian-Shuo Liu, Shengyi Jiang, Ruifeng Chen, Zhilong Zhang, Xinwei Chen, Yang Yu. ICML 2024.
+
+#### IJCAI 2024
+
+#### AAAI 2024
+- [A Perspective of Q-value Estimation on Offline-to-Online Reinforcement Learning](https://arxiv.org/abs/2312.07685)
+    - Yinmin Zhang, Jie Liu, Chuming Li, Yazhe Niu, Yaodong Yang, Yu Liu, Wanli Ouyang. AAAI 2024.
+
+#### ICLR 2024
+- [Offline Data Enhanced On-Policy Policy Gradient with Provable Guarantees](https://arxiv.org/abs/2311.08384v1)
+    - Yifei Zhou, Ayush Sekhari, Yuda Song, Wen Sun. ICLR 2024.
 
 
 #### Underreviewed ICLR 24
