@@ -96,11 +96,9 @@ Reinforcement Learning with Offline Datasets
 - [Efficient Online Reinforcement Learning with Offline Data](https://arxiv.org/abs/2302.02948)
     - Philip J. Ball, Laura Smith, Ilya Kostrikov, Sergey Levine. ICML 2023. 02/2023.
 
-- [Policy Expansion for Bridging Offline-to-Online Reinforcement Learning](https://arxiv.org/abs/2302.00935)
-    - Haichao Zhang, We Xu, Haonan Yu. ICLR 2023. 02/2023.
 
-- [Cal-QL: Calibrated Offline RL Pre-Training for Efficient Online Fine-Tuning](https://arxiv.org/abs/2303.05479)
-    - Mitsuhiko Nakamoto, Yuexiang Zhai, Anikait Singh, Max Sobol Mark, Yi Ma, Chelsea Finn, Aviral Kumar, Sergey Levine. NeurIPS 2023. 03/2023.
+
+
 - [Adaptive Policy Learning for Offline-to-Online Reinforcement Learning](https://arxiv.org/abs/2303.07693)
     - Han Zheng, Xufang Luo, Pengfei Wei, Xuan Song, Dongsheng Li, Jing Jiang. AAAI 2023. 03/2023.
 - [Finetuning from Offline Reinforcement Learning: Challenges, Trade-offs and Practical Solutions](https://arxiv.org/abs/2303.17396)
@@ -120,22 +118,78 @@ Reinforcement Learning with Offline Datasets
 - [Sample Efficient Offline-to-Online Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10210487)
     - Siyuan Guo, Lixin Zou, et al.  IEEE Transactions on Knowledge and Data Engineering ( Early Access ). 08/2023.
 
+#### Submitted ICLR 2026   
+- [The Three Regimes of Offline-to-Online Reinforcement Learning](https://openreview.net/pdf/74060f4d6c443ffee85396a060e92d6db266182f.pdf)
+
+- [Towards Optimism-Pessimism Trade-off in Model-based Offline-to-Online Reinforcement Learning](https://openreview.net/pdf/120d060d4542687f92284e6544a214497b5b4584.pdf)
+
+- [Action-Free Offline-To-Online RL via Discretised State Policies](https://openreview.net/pdf/e6f62b596a74791650456c58a59a09b94b367996.pdf)
+
+- [Exploration for Deployment-Efficient Reinforcement Learning Agents](https://openreview.net/pdf/96c0afc63f63b87b90069aedfb12250ed862ba49.pdf)
+
+- [Annealing Bridges Offline and Online RL](https://openreview.net/pdf/85276a8a56404961f7e80b5d4e170c03ac85a425.pdf)
+
+- [EXPO: Stable Reinforcement Learning with Expressive Policies](https://openreview.net/pdf/301ad3ea815c2a4dfff671c26a5a374703c7a297.pdf)
+
+- [From Static Constraints to Dynamic Adaptation: Sample-Level Constraint Release for Offline-to-Online RL](https://openreview.net/pdf/2d3f4fe2170134841f0bfd0cb8254b1375c84917.pdf)
+
+- [Trajectory Generation for Offline-to-Online Reinforcement Learning via Entropy Perspective](https://openreview.net/forum?id=B9ftkLlYAj)
+
+- [How to Mitigate the Distribution Shift Problem in Robotics Control: A Robust and Adaptive Approach Based on Offline to Online Imitation Learning](https://openreview.net/pdf/f62fc724b9c5740dbf325b673e439d9003c169d4.pdf)
+
+- [SAMG: Offline-to-Online Reinforcement Learning via State-Action-Conditional Offline Model Guidance](https://openreview.net/pdf/1fd6e6059f99c10f5e90086bb39acb481fb28010.pdf)
+
+- [Explicitly Bounding Q‑Function Estimates for Offline-to-Online Reinforcement Learning](https://openreview.net/pdf/7bf6157235d24916218724d7c69e89d300d0a8d9.pdf)
+
+- [Flow Matching with Injected Noise for Offline-to-Online Reinforcement Learning](https://openreview.net/pdf/4d2fb4e0e6b8d34f75d356202f101530d353f7f0.pdf)
+
+- [Efficient Zero-Shot Coordination via Offline Policy Diversity and Online Belief Reasoning](https://openreview.net/pdf/54b0d92d22d1de327cc5ea4cd6e1e21960c3cab1.pdf)
+
+- [Enhancing Offline-to-Online Reinforcement Learning by Adaptive Experience Aligned Diffusion Sampling](https://openreview.net/pdf/4de6329aa72ec90d4cff9476976a201d7cadc737.pdf)
+
+- [Bridging Offline and Online Reinforcement Learning for LLMs](https://openreview.net/pdf/34c1de5b4eec72ac3cfc0ae3f1af0d7f81ab7a33.pdf)
+
+- [Online Finetuning Decision Transformers with Policy Gradients](https://openreview.net/pdf/e56de6970f4dd7ca2c7ba17bcce203c5545c7852.pdf)
+
+- [Generative Actor Critic](https://openreview.net/pdf/099069256c316a3fd6729fdb657df623da45b0bf.pdf)
 
 #### NeurIPS 2025
+- [Robust Policy Expansion for Offline-to-Online RL under Diverse Data Corruption](https://arxiv.org/abs/2509.24748)
+    - Longxiang He, Deheng Ye, Junbo Tan, Xueqian Wang, Li Shen. NeurIPS 2025.
+- [Uni-RL: Unifying Online and Offline RL via Implicit Value Regularization](https://openreview.net/forum?id=mjZi8cV18P)
+    - Haoran Xu, Liyuan Mao, Hui Jin, Weinan Zhang, Xianyuan Zhan, Amy Zhang. NeurIPS 2025.
 
 #### ICML 2025
+- [Offline-to-Online Reinforcement Learning with Classifier-Free Diffusion Generation](https://openreview.net/forum?id=4JbQK1qGpA)
+    - Xiao Huang, Xu Liu, Enze Zhang, Tong Yu, Shuai Li. ICML 2025.
+
 
 #### IJCAI 2025
 
 #### AAAI 2025
+- [Offline-to-online hyperparameter transfer for stochastic bandits](https://arxiv.org/abs/2501.02926)
+    - Dravyansh Sharma, Arun Sai Suggala. AAAI 2025. Bandit problem.
+- [Enhancing Online Reinforcement Learning with Meta-Learned Objective from Offline Data](https://arxiv.org/abs/2501.07346)
+    - Shilong Deng, Zetao Zheng, Hongcai He, Paul Weng, Jie Shao. AAAI 2025.
+
 
 #### ICLR 2025
+- [FOSP: Fine-tuning Offline Safe Policy through World Models](https://openreview.net/pdf/f72da8409213f6155efba9926b0ba16e6a0ae696.pdf)
+    - Chenyang Cao, Yucheng Xin, Silang Wu, Longxiang He, Zichen Yan, Junbo Tan, Xueqian Wang. ICLR 2025.
+- [Efficient Online Reinforcement Learning Fine-Tuning Need Not Retain Offline Data](https://openreview.net/pdf/02ea87bd0277223354a8716440d0a30c06a5b7dd.pdf)
+    - Zhiyuan Zhou, Andy Peng, Qiyang Li, Sergey Levine, Aviral Kumar. ICLR 2025.   
+
+- [Policy Decorator: Model-Agnostic Online Refinement for Large Policy Model](https://openreview.net/pdf/304325920749811806862e3d1b3d3e02ad2dcea9.pdf)
+    - Xiu Yuan, Tongzhou Mu, Stone Tao, Yunhao Fang, Mengke Zhang, Hao Su. ICLR 2025.
+
 
 #### NeurIPS 2024
 - [Optimistic Critic Reconstruction and Constrained Fine-Tuning for General Offline-to-Online RL](https://openreview.net/forum?id=XVfevb9XFx&noteId=rkLIxK5jZ2)
     - Qin-Wen Luo, Ming-Kun Xie, Ye-Wen Wang, Sheng-Jun Huang. NeurIPS 2024.
 - [Reinforcement Learning Gradients as Vitamin for Online Finetuning Decision Transformers](https://arxiv.org/abs/2410.24108)
     - Kai Yan, Alexander G. Schwing, Yu-Xiong Wang. NeurIPS Spotlight 2024.
+- [Hybrid Reinforcement Learning Breaks Sample Size Barriers In Linear MDPs](https://arxiv.org/abs/2408.04526)
+    - Kevin Tan, Wei Fan, Yuting Wei. NeurIPS 2024.
 
 #### ICML 2024
 - [Energy-Guided Diffusion Sampling for Offline-to-Online Reinforcement Learning](https://arxiv.org/pdf/2407.12448v2)
@@ -146,6 +200,8 @@ Reinforcement Learning with Offline Datasets
 #### AAAI 2024
 - [A Perspective of Q-value Estimation on Offline-to-Online Reinforcement Learning](https://arxiv.org/abs/2312.07685)
     - Yinmin Zhang, Jie Liu, Chuming Li, Yazhe Niu, Yaodong Yang, Yu Liu, Wanli Ouyang. AAAI 2024.
+- [SUF: Stabilized Unconstrained Fine-Tuning for Offline-to-Online Reinforcement Learning](https://ojs.aaai.org/index.php/AAAI/article/view/29083)
+    - Jiaheng Feng, Mingxiao Feng, Haolin Song, Wengang Zhou, Houqiang Li. AAAI 2024.
 
 #### ICLR 2024
 - [Offline Data Enhanced On-Policy Policy Gradient with Provable Guarantees](https://arxiv.org/abs/2311.08384v1)
@@ -175,8 +231,7 @@ Reinforcement Learning with Offline Datasets
 - [A Simple Unified Uncertainty-Guided Framework for Offline-to-Online Reinforcement Learning](https://openreview.net/forum?id=ZHr0JajZfH)
     - Siyuan Guo, Yanchao Sun, Jifeng Hu, Sili Huang, Hechang Chen, Haiyin Piao, Lichao Sun, Yi Chang. reviewed at ICLR 2024.
 
-- [Uni-O4: Unifying Online and Offline Deep Reinforcement Learning with Multi-Step On-Policy Optimization](https://openreview.net/forum?id=tbFBh3LMKi)
-    - Kun Lei, Zhengmao He, Chenhao Lu, Kaizhe Hu, Yang Gao, Huazhe Xu. reviewed at ICLR 2024.
+
 
 - [Automatic Fine-Tuned Offline-to-Online Reinforcement Learning via Increased Simple Moving Average Q-value](https://openreview.net/forum?id=228XQpErvW)
     - . reviewed at ICLR 2024.
@@ -184,15 +239,14 @@ Reinforcement Learning with Offline Datasets
 - [Guided Decoupled Exploration for Offline Reinforcement Learning Fine-tuning](https://openreview.net/forum?id=gCZyD7WD0w)
     - . reviewed at ICLR 2024.
 
-- [Offline Data Enhanced On-Policy Policy Gradient with Provable Guarantees](https://openreview.net/forum?id=RMgqvQGTwH)
-    - Yifei Zhou, Ayush Sekhari, Yuda Song, Wen Sun. reviewed at ICLR 2024.
 
 - [Collaborative World Models: An Online-Offline Transfer RL Approach](https://openreview.net/forum?id=AhcxMGfqQn)
     - Qi Wang, Junming Yang, Yunbo Wang, Xin Jin, Wenjun Zeng, Xiaokang Yang. reviewed at ICLR 2024.
 
 
 #### ICLR 2024
-
+- [Uni-O4: Unifying Online and Offline Deep Reinforcement Learning with Multi-Step On-Policy Optimization](https://openreview.net/forum?id=tbFBh3LMKi)
+    - Kun Lei, Zhengmao He, Chenhao Lu, Kaizhe Hu, Yang Gao, Huazhe Xu. ICLR 2024.
 
 #### AAAI 2024
 - [SUF: Stabilized Unconstrained Fine-Tuning for Offline-to-Online Reinforcement Learning](https://ojs.aaai.org/index.php/AAAI/article/view/29083)
@@ -236,4 +290,32 @@ Reinforcement Learning with Offline Datasets
     - Trevor McInroe, Stefano V. Albrecht, Amos Storkey. arXiv, reviewed at ICLR 2024.RLC 2024. 
 
 
+
+
+#### NeurIPS 2023
+- [Policy Finetuning in Reinforcement Learning via Design of Experiments using Offline Data](https://arxiv.org/abs/2307.04354)
+    - Ruiqi Zhang, Andrea Zanette. NeurIPS 2023.
+- [Reward-agnostic Fine-tuning: Provable Statistical Benefits of Hybrid Reinforcement Learning](https://arxiv.org/abs/2305.10282)
+    - Gen Li, Wenhao Zhan, Jason D. Lee, Yuejie Chi, Yuxin Chen. NeurIPS 2023.
+- [Cal-QL: Calibrated Offline RL Pre-Training for Efficient Online Fine-Tuning](https://arxiv.org/abs/2303.05479)
+    - Mitsuhiko Nakamoto, Yuexiang Zhai, Anikait Singh, Max Sobol Mark, Yi Ma, Chelsea Finn, Aviral Kumar, Sergey Levine. NeurIPS 2023. 03/2023.
+
+#### ICML 2023
+
+
+#### IJCAI 2023
+
+#### AAAI 2023
+- [Adaptive Policy Learning for Offline-to-Online Reinforcement Learning](https://arxiv.org/abs/2303.07693)
+    - Han Zheng, Xufang Luo, Pengfei Wei, Xuan Song, Dongsheng Li, Jing Jiang. AAAI 2023.
+
+#### ICLR 2023
+- [Policy Expansion for Bridging Offline-to-Online Reinforcement Learning](https://arxiv.org/abs/2302.00935)
+    - Haichao Zhang, We Xu, Haonan Yu. ICLR 2023. 02/2023.
+- [Hybrid RL: Using both offline and online data can make RL efficient](https://arxiv.org/abs/2210.06718)
+    - Yuda Song, Yifei Zhou, Ayush Sekhari, J. Andrew Bagnell, Akshay Krishnamurthy, Wen Sun. ICLR 2023
+
+### Multi-Agent Reinforcement Learning
+- [Online Tuning for Offline Decentralized Multi-Agent Reinforcement Learning](https://ojs.aaai.org/index.php/AAAI/article/view/25973)
+    - Jiechuan Jiang, Zongqing Lu. AAAI 2023.
 
