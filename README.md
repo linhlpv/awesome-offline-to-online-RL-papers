@@ -54,14 +54,18 @@ Credit:
         - [ICLR 2022](#iclr-2022)
         - [CORL 2022](#corl-2022)
         - [RSS 2022](#rss-2022)
-    - [Journal Papers](#journal-papers)
     - [Multi-Agent Reinforcement Learning](#multi-agent-reinforcement-learning)
+    - [Journal Papers](#journal-papers)
+
 
 ## Papers
 <!-- ### Surveys
 - [Pretraining in Deep Reinforcement Learning: A Survey](https://arxiv.org/abs/2211.03959)
     - Zhihui Xie, Zichuan Lin, Junyou Li, Shuai Li, Deheng Ye. arXiv. 11/2022. -->
 #### Preprints
+- [Adversarial Fine-tuning in Offline-to-Online Reinforcement Learning for Robust Robot Control](https://arxiv.org/abs/2510.13358v1)
+    - Shingo Ayabe, Hiroshi Kera, Kazuhiko Kawamoto. arXiv 2025. 10/2025.
+
 - [MOORe: Model-based Offline-to-Online Reinforcement Learning](https://arxiv.org/abs/2201.10070v1)
     - Yihuan Mao, Chao Wang, Bin Wang, Chongjie Zhang. arXiv 2022. 01/2022.
 
@@ -149,6 +153,7 @@ Credit:
     - Xu Liu, Tong Yu, Shuai Li. AAMAS 2025 Extended Abstract.
 
 
+
 #### NeurIPS 2025
 - [Robust Policy Expansion for Offline-to-Online RL under Diverse Data Corruption](https://arxiv.org/abs/2509.24748)
     - Longxiang He, Deheng Ye, Junbo Tan, Xueqian Wang, Li Shen. NeurIPS 2025.
@@ -166,6 +171,8 @@ Credit:
     - Chinmaya Kausik, Kevin Tan, Ambuj Tewari. ICML 2025. Bandit problem.
 
 #### IJCAI 2025
+- [State Revisit and Re-explore: Bridging Sim-to-Real Gaps in Offline-and-Online Reinforcement Learning with An Imperfect Simulator]()
+    - Xingyu Chen, Jiayi Xie, Zhijian Xu, Ruixun Liu, Shuai Yang, Zeyang Liu, Lipeng Wan, Xuguang Lan. IJCAI 2025.
 
 #### AAAI 2025
 - [Offline-to-online hyperparameter transfer for stochastic bandits](https://arxiv.org/abs/2501.02926)
@@ -185,6 +192,9 @@ Credit:
 
 ### 2024
 #### AAMAS 2024
+- [ANOTO: Improving Automated Negotiation via Offline-to-Online Reinforcement Learning][https://www.ifaamas.org/Proceedings/aamas2024/pdfs/p2195.pdf]
+    - Siqi Chen, Jianing Zhao, Kai Zhao, Gerhard Weiss, Fengyun Zhang, Ran Su, Yang Dong, Daqian Li and Kaiyou Lei. AAMAS 2024 Extended Abstract.
+
 #### NeurIPS 2024
 - [Optimistic Critic Reconstruction and Constrained Fine-Tuning for General Offline-to-Online RL](https://openreview.net/forum?id=XVfevb9XFx&noteId=rkLIxK5jZ2)
     - Qin-Wen Luo, Ming-Kun Xie, Ye-Wen Wang, Sheng-Jun Huang. NeurIPS 2024.
@@ -290,7 +300,6 @@ Credit:
 
 
 ### 2023
-#### AAMAS 2023
 #### NeurIPS 2023
 - [Policy Finetuning in Reinforcement Learning via Design of Experiments using Offline Data](https://arxiv.org/abs/2307.04354)
     - Ruiqi Zhang, Andrea Zanette. NeurIPS 2023.
@@ -318,9 +327,6 @@ Credit:
 - [Semi-Offline Reinforcement Learning for Optimized Text Generation](https://arxiv.org/pdf/2306.09712v1)
     - Changyu Chen, Xiting Wang, Yiqiao Jin, Victor Ye Dong, Li Dong, Jie Cao, Yi Liu, Rui Yan. ICML 2023. Applied to Text Generation.
 
-
-#### IJCAI 2023
-
 #### AAAI 2023
 - [Adaptive Policy Learning for Offline-to-Online Reinforcement Learning](https://arxiv.org/abs/2303.07693)
     - Han Zheng, Xufang Luo, Pengfei Wei, Xuan Song, Dongsheng Li, Jing Jiang. AAAI 2023.
@@ -337,9 +343,14 @@ Credit:
 - [Learning on the Job: Self-Rewarding Offline-to-Online Finetuning for Industrial Insertion of Novel Connectors from Vision](https://arxiv.org/abs/2210.15206)
     - Ashvin Nair, Brian Zhu, Gokul Narayanan, Eugen Solowjow, Sergey Levine. ICRA 2023.
 
+#### CORL 2023
+- [MOTO: Offline Pre-training to Online Fine-tuning for Model-based Robot Learning](https://arxiv.org/abs/2401.03306)
+    - Rafael Rafailov, Kyle Hatch, Victor Kolev, John D. Martin, Mariano Phielipp, Chelsea Finn. CORL 2023.
+
+- [Finetuning Offline World Models in the Real World](https://arxiv.org/pdf/2310.16029)
+    - Yunhai Feng, Nicklas Hansen, Ziyan Xiong, Chandramouli Rajagopalan, Xiaolong Wang. CORL 2024 Oral. Model based finetuning.
 
 ### 2022
-#### AAMAS 2022
 #### NeurIPS 2022
 - [Reincarnating Reinforcement Learning: Reusing Prior Computation to Accelerate Progress](https://arxiv.org/abs/2206.01626) [page](https://agarwl.github.io/reincarnating_rl/)
     - Rishabh Agarwal, Max Schwarzer, Pablo Samuel Castro, Aaron Courville, Marc G. Bellemare. NeurIPS 2022. 06/2022.
@@ -350,10 +361,6 @@ Credit:
 
 - [Offline Meta-Reinforcement Learning with Online Self-Supervision](https://arxiv.org/abs/2107.03974)
     - Vitchyr H. Pong, Ashvin Nair, Laura Smith, Catherine Huang, Sergey Levine. IML 2022. 07/2021.
-
-#### IJCAI 2022
-
-#### AAAI 2022
 
 #### ICLR 2022
 - [MOTO: Offline to Online Fine-tuning for Model-Based Reinforcement Learning](https://openreview.net/forum?id=cH8XVu9hUV&referrer=%5Bthe%20profile%20of%20Rafael%20Rafailov%5D(%2Fprofile%3Fid%3D~Rafael_Rafailov1))
@@ -375,6 +382,15 @@ Credit:
 - [Online Tuning for Offline Decentralized Multi-Agent Reinforcement Learning](https://ojs.aaai.org/index.php/AAAI/article/view/25973)
     - Jiechuan Jiang, Zongqing Lu. AAAI 2023.
 
+- [M3: Modularization for Multi-task and Multi-agent Offline Pre-training](https://www.ifaamas.org/Proceedings/aamas2023/pdfs/p1624.pdf)
+    - Linghui Meng, Jingqing Ruan, Xuantang Xiong, Xiyun Li, Xi Zhang, Dengpeng Xing, Bo Xu. AAMAS 2023.
+
+- [Offline-to-Online Multi-Agent Reinforcement Learning with Offline Value Function Memory and Sequential Exploration](https://arxiv.org/abs/2410.19450)
+    - Hai Zhong, Xun Wang, Zhuoran Li, Longbo Huang. AAMAS 2025.
+
 ### Journal Papers
 - [Offline-to-online reinforcement learning with policy ensemble and policy-extended value](https://link.springer.com/article/10.1007/s10489-025-06972-7)
     - Jiacheng Chen, Jin Zhu & Lin Yang . Applied Intelligence. 02 November 2025
+
+- [EMDSAC-ft: bridging the gap in offline-to-online reinforcement learning through value distribution learning](https://www.sciencedirect.com/science/article/pii/S0950705125017587)
+    - Yesen Chen, Teng Zhang, Tao Li, Dongyun Wang. Knowledge-Based Systems. 25 November 2025.
