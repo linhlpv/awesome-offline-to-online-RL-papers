@@ -191,6 +191,10 @@ Credit:
     - Xiu Yuan, Tongzhou Mu, Stone Tao, Yunhao Fang, Mengke Zhang, Hao Su. ICLR 2025.
 
 ### 2024
+#### ICRA 2024
+- [Weighting online decision transformer with episodic memory for offline-to-online reinforcement learning](https://events.infovaya.com/uploads/documents/pdfviewer/1d/8e/132760-2282.pdf)
+    - Xiao Ma and Wu-Jun Li. ICRA 2024.
+
 #### AAMAS 2024
 - [ANOTO: Improving Automated Negotiation via Offline-to-Online Reinforcement Learning][https://www.ifaamas.org/Proceedings/aamas2024/pdfs/p2195.pdf]
     - Siqi Chen, Jianing Zhao, Kai Zhao, Gerhard Weiss, Fengyun Zhang, Ran Su, Yang Dong, Daqian Li and Kaiyou Lei. AAMAS 2024 Extended Abstract.
