@@ -113,6 +113,8 @@ Credit:
     - Siyuan Guo, Lixin Zou, et al.  IEEE Transactions on Knowledge and Data Engineering ( Early Access ). 08/2023.
 
 #### Submitted ICLR 2026   
+- [On-policy Reinforcement Fine-tuning with Offline reward for Multi-step Embodied Planning]()
+
 - [The Three Regimes of Offline-to-Online Reinforcement Learning](https://openreview.net/pdf/74060f4d6c443ffee85396a060e92d6db266182f.pdf)
 
 - [Towards Optimism-Pessimism Trade-off in Model-based Offline-to-Online Reinforcement Learning](https://openreview.net/pdf/120d060d4542687f92284e6544a214497b5b4584.pdf)
