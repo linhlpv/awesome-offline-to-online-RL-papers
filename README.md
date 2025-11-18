@@ -113,6 +113,7 @@ Credit:
     - Siyuan Guo, Lixin Zou, et al.  IEEE Transactions on Knowledge and Data Engineering ( Early Access ). 08/2023.
 
 #### Submitted ICLR 2026   
+- [Tackling Heavy-Tailed Q-Value Bias in Offline-to-Online Reinforcement Learning with Laplace-Robust Modeling](https://openreview.net/forum?id=I7UK5qHNBL)
 - [On-policy Reinforcement Fine-tuning with Offline reward for Multi-step Embodied Planning]()
 
 - [The Three Regimes of Offline-to-Online Reinforcement Learning](https://openreview.net/pdf/74060f4d6c443ffee85396a060e92d6db266182f.pdf)
