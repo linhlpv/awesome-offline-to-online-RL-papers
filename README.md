@@ -164,6 +164,8 @@ Credit:
     - Haoran Xu, Liyuan Mao, Hui Jin, Weinan Zhang, Xianyuan Zhan, Amy Zhang. NeurIPS 2025.
 
 #### ICML 2025
+- [Penalizing Infeasible Actions and Reward Scaling in Reinforcement Learning with Offline Data](https://arxiv.org/abs/2507.08761)
+    - Jeonghye Kim, Yongjae Shin, Whiyoung Jung, Sunghoon Hong, Deunsol Yoon, Youngchul Sung, Kanghoon Lee, Woohyung Lim. ICML 2025 Spotlight.
 - [Offline-to-Online Reinforcement Learning with Classifier-Free Diffusion Generation](https://openreview.net/forum?id=4JbQK1qGpA)
     - Xiao Huang, Xu Liu, Enze Zhang, Tong Yu, Shuai Li. ICML 2025.
 
