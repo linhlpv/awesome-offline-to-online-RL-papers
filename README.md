@@ -112,6 +112,17 @@ Credit:
 - [Sample Efficient Offline-to-Online Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10210487)
     - Siyuan Guo, Lixin Zou, et al.  IEEE Transactions on Knowledge and Data Engineering ( Early Access ). 08/2023.
 
+#### ICLR 2026
+- [Flow Matching with Injected Noise for Offline-to-Online Reinforcement Learning](https://arxiv.org/abs/2602.18117v1)
+    - Yongjae Shin, Jongseong Chae, Jongeui Park, Youngchul Sung. ICLR 2026.
+
+- [EXPO: Stable Reinforcement Learning with Expressive Policies](https://arxiv.org/abs/2507.07986)
+    - Perry Dong, Qiyang Li, Dorsa Sadigh, Chelsea Finn. ICLR 2026.
+
+- [Action-Free Offline-to-Online RL via Discretised State Policies](https://arxiv.org/abs/2602.00629)
+    - Natinael Solomon Neggatu, Jeremie Houssineau, Giovanni Montana. ICLR 2026.
+
+
 #### Submitted ICLR 2026   
 - [Tackling Heavy-Tailed Q-Value Bias in Offline-to-Online Reinforcement Learning with Laplace-Robust Modeling](https://openreview.net/forum?id=I7UK5qHNBL)
 - [On-policy Reinforcement Fine-tuning with Offline reward for Multi-step Embodied Planning]()
@@ -162,6 +173,8 @@ Credit:
     - Longxiang He, Deheng Ye, Junbo Tan, Xueqian Wang, Li Shen. NeurIPS 2025.
 - [Uni-RL: Unifying Online and Offline RL via Implicit Value Regularization](https://openreview.net/forum?id=mjZi8cV18P)
     - Haoran Xu, Liyuan Mao, Hui Jin, Weinan Zhang, Xianyuan Zhan, Amy Zhang. NeurIPS 2025.
+- [Reinforcement Learning with Action Chunking](https://arxiv.org/abs/2507.07969)
+    - Qiyang Li, Zhiyuan Zhou, Sergey Levine. NeurIPS 2025.
 
 #### ICML 2025
 - [Penalizing Infeasible Actions and Reward Scaling in Reinforcement Learning with Offline Data](https://arxiv.org/abs/2507.08761)
