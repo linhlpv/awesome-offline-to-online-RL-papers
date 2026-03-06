@@ -63,6 +63,9 @@ Credit:
 - [Pretraining in Deep Reinforcement Learning: A Survey](https://arxiv.org/abs/2211.03959)
     - Zhihui Xie, Zichuan Lin, Junyou Li, Shuai Li, Deheng Ye. arXiv. 11/2022. -->
 #### Preprints
+- [	Decision MetaMamba: Enhancing Selective SSM in Offline RL with Heterogeneous Sequence Mixing ](https://arxiv.org/abs/2408.10517)
+    - Wall Kim, Chaeyoung Song, Hanul Kim. arXiv 2026. 2/2026.
+
 - [Adversarial Fine-tuning in Offline-to-Online Reinforcement Learning for Robust Robot Control](https://arxiv.org/abs/2510.13358v1)
     - Shingo Ayabe, Hiroshi Kera, Kazuhiko Kawamoto. arXiv 2025. 10/2025.
 
