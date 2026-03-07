@@ -1,27 +1,38 @@
 # Off2OnRL-awesome-papers [Offline Online Reinforcement Learning]
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-
-This is a collection of reasearch and review papers for **Offline to Online Reinforcement Learning (RL)** (or **Offline Online RL**). Feel free to star and fork. This site is mainly inspired by the [Awesome Offline RL list](https://github.com/hanjuku-kaso/awesome-offline-rl), please see them if you interested in newest research papers related to Offline RL too.
-
+This is a collection of research and review papers for **Offline to Online Reinforcement Learning (RL)** (or **Offline Online RL**). 
+If you find this repository helpful, please consider citing our survey and giving a ⭐!
 
 Maintainers:
 - [Linh LPV](https://linhlpv.github.io/) (A2I2, Deakin University)
 
 
-Please feel free to [pull request](https://github.com/linhlpv/Off2OnRL-awesome-papers/pulls) with the intructions provided in [Contributing](https://github.com/linhlpv/awesome-offline-to-online-RL-papers/blob/main/CONTRIBUTING.md).
+Please feel free to [pull request](https://github.com/linhlpv/Off2OnRL-awesome-papers/pulls) with the instructions provided in [Contributing](https://github.com/linhlpv/awesome-offline-to-online-RL-papers/blob/main/CONTRIBUTING.md).
 ```
 Format:
 - [title](paper linnk) [links]
     - author 1, author 2, et al. arXiv/conferences/journals, month/year.
 ```
 
-For any questions, feel free to contact: l.le@deakin.edu.au
+For any questions, feel free to contact: lephamvanlinh@gmail.com
 
 Credit: 
 - The Contributing instruction is based on the workflow of [awesome-exploration-rl
 ](https://github.com/opendilab/awesome-exploration-rl).
 
-## Table of Contents
+## 📑 Citation
+
+```bibtex
+@article{le2026offline2onlinerl,
+  title={Awesome Offline to Online RL Papers},
+  author={Linh Le},
+  journal={https://github.com/linhlpv/awesome-offline-to-online-RL-papers},
+  year={2026}
+}
+```
+
+## 📋 Table of Contents
 - [Papers](#papers)
     - [Offline to Online](#offline-to-online)
     - [Preprints](#preprints)
@@ -419,3 +430,7 @@ Credit:
 
 - [EMDSAC-ft: bridging the gap in offline-to-online reinforcement learning through value distribution learning](https://www.sciencedirect.com/science/article/pii/S0950705125017587)
     - Yesen Chen, Teng Zhang, Tao Li, Dongyun Wang. Knowledge-Based Systems. 25 November 2025.
+ 
+## ⭐ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=linhlpv/awesome-offline-to-online-RL-papers&type=Date)](https://star-history.com/#linhlpv/awesome-offline-to-online-RL-papersl&Date)
