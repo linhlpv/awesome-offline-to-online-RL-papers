@@ -430,7 +430,11 @@ Credit:
 
 - [EMDSAC-ft: bridging the gap in offline-to-online reinforcement learning through value distribution learning](https://www.sciencedirect.com/science/article/pii/S0950705125017587)
     - Yesen Chen, Teng Zhang, Tao Li, Dongyun Wang. Knowledge-Based Systems. 25 November 2025.
- 
+
+
+### TMLR
+- [Towards Fast Safe Online Reinforcement Learning via Policy Finetuning](https://openreview.net/forum?id=1SO7vmLFUq)
+    - Keru Chen, Honghao Wei, Zhigang Deng, Sen Lin. TMLR Jan 2026.
 ## ⭐ Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=linhlpv/awesome-offline-to-online-RL-papers&type=Date)](https://star-history.com/#linhlpv/awesome-offline-to-online-RL-papersl&Date)
