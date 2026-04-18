@@ -74,6 +74,8 @@ Credit:
 - [Pretraining in Deep Reinforcement Learning: A Survey](https://arxiv.org/abs/2211.03959)
     - Zhihui Xie, Zichuan Lin, Junyou Li, Shuai Li, Deheng Ye. arXiv. 11/2022. -->
 #### Preprints
+- [Offline-to-Online Reinforcement Learning with Prioritized Experience Selection](https://openreview.net/forum?id=jQyKywGtpW)
+    - Zhongjian Qiao, Jiafei Lyu, Qi Liu, Xiu Li. Submitted to ICLR 2025.    
 - [	Decision MetaMamba: Enhancing Selective SSM in Offline RL with Heterogeneous Sequence Mixing ](https://arxiv.org/abs/2408.10517)
     - Wall Kim, Chaeyoung Song, Hanul Kim. arXiv 2026. 2/2026.
 
