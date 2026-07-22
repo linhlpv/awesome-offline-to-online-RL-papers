@@ -450,4 +450,4 @@ Credit:
     - Keru Chen, Honghao Wei, Zhigang Deng, Sen Lin. TMLR Jan 2026.
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=linhlpv/awesome-offline-to-online-RL-papers&type=Date)](https://star-history.com/#linhlpv/awesome-offline-to-online-RL-papersl&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=linhlpv/awesome-offline-to-online-RL-papers&type=Date)](https://star-history.com/#linhlpv/awesome-offline-to-online-RL-papers&Date)
